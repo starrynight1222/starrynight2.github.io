@@ -1,0 +1,16 @@
+
+body {background-color: pink;
+      border: 10px solid #A2D3D5;
+      font-style: Times New Roman;
+      border-radius: 10px; 
+      margin-left: 11px;
+      margin-right: 11px;
+      
+}
+
+nav ul {list-style-type: none;
+       
+}
+
+nav ul li {display: inline;
+}
