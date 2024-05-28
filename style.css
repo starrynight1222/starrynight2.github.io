@@ -13,10 +13,15 @@ h1 {font-family: Georgia;
 }
     
 p {
+    font-family: Georgia;
     color: black;
     font-size: 250px;
 }
-    
+
+marquee {
+      color: #003285;
+      font-family: Georgia;
+}
 nav ul {list-style-type: none;       
 }
 
