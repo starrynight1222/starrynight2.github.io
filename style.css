@@ -8,17 +8,16 @@ body {background-color: pink;
 }
 
 h1 {font-family: Georgia;
-    font-size: 25px;
+    font-size: 250px;
     text-align: right;
 }
     
 p {
     color: black;
-    font-size: 25px;
+    font-size: 250px;
 }
     
-nav ul {list-style-type: none;
-       
+nav ul {list-style-type: none;       
 }
 
 nav ul li {display: inline;
