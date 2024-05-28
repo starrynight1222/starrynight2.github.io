@@ -9,14 +9,14 @@ body {background-color: pink;
 
 h1 {
       font-family: Georgia;
-    font-size: 75px;
+    font-size: 60px;
     text-align: left;
 }
     
 p {
     font-family: Georgia;
     color: black;
-    font-size: 70px;
+    font-size: 50px;
 }
 
 marquee {
